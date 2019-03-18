@@ -1,0 +1,215 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#corpo{
+    width: 70%;
+    margin-left: 15%;
+    float: left;
+
+}
+
+#cabecalho{
+    float: left;
+    height: 300px;
+
+}
+
+#mainCabecalho{
+    float: left;
+    height: 250px;
+    width: 100%;
+    border-bottom: 1px solid black;
+
+}
+#menuTop{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    
+   
+}
+
+#menuTop li{
+    display: inline;
+}
+
+#menuTopEsquerda{
+
+float: left;
+
+margin-left: 20px;
+}
+
+#menuTopEsquerda li{
+
+    margin-right: 10px;
+}
+
+#data{
+
+float: left;
+padding-left: 390px;
+margin-right: 500px
+}
+
+#logoUol{
+
+    float: left;
+
+}
+
+a{
+
+
+
+}
+#login{
+    float: left;
+    padding-top: 60px;
+    margin-left: 100px;
+}
+
+#dolar
+{
+float: left;
+padding-top: 60px;
+margin-left: 200px;
+}
+
+#tempo{
+    float: left;
+    padding-top: 60px;
+    margin-left: 100px;
+
+}
+
+#find{
+    float: left;
+    margin-top: 20%;
+
+}
+
+#MenuBaixo{
+    float: left;
+    margin-top: 7px;
+    padding-left: 250px;
+
+}
+#MenuBaixo li{
+
+    display: inline;
+
+}
+
+a {
+
+    text-decoration: none;
+}
+
+#aovivo {
+    float: left;
+    background-color: brown;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 14px;
+    background-image: linear-gradient(to right, red , rgb(124, 0, 0));
+    border-radius: 3px;
+    padding-top: 20px;
+    
+}
+
+#aovivo  h3{
+   margin-left: 10px;
+   height: 40px;
+}
+
+#esquerda{
+    float: left;
+    width: 60%;
+}
+#esquerda1{
+
+    float: left;
+    margin-top: 20px;
+}
+
+#NoticiaPrincipalImg{
+
+    float: left;
+    
+
+}
+
+#TituloNoticiaPrincipal{
+
+    float: left;
+    width: 60%;
+    margin-left: 20px;
+
+}
+#TituloNoticiaPrincipal h1{
+
+    margin-bottom: 20px;
+    margin-top: 50px;
+    
+
+}
+
+#esquerda2{
+
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#esquerda2 i {
+
+    color: brown;
+}
+#esquerda2 li{
+    float: left;
+    margin-top: 20px;
+    list-style: none;
+}
+
+#quadrado{
+    background-color: brown;
+    float: left;
+    margin-left: 20px;
+}
+
+#direita{
+
+    background-color: red;
+    float: left;
+    width: 35%;
+    margin-top: 20px;
+    font-size: 14px;
+    border-radius: 3px;
+    padding-top: 0px;
+    padding-left: 30px;
+    margin-left: 30px;
+    border-left: 1px solid black;
+    
+}
+
+.r2{
+    float: left;
+    margin-left: 23px;
+    
+}
+footer{
+
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(49, 0, 0);
+   color: white;
+   text-align: center;
+}
+ 
+  
